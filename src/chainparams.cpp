@@ -127,8 +127,8 @@ public:
 
         // Note that of those with the service bits flag, most only support a subset of possible options
         vSeeds.emplace_back("onlycash.ddns.net");
-        //vSeeds.emplace_back("dnsseed.thrasher.io");
-        //vSeeds.emplace_back("dnsseed.digitaleurotools.com");
+        vSeeds.emplace_back("85.15.179.171");
+        vSeeds.emplace_back("digitaleuro.info");
         //vSeeds.emplace_back("dnsseed.digitaleuropool.org");
         //vSeeds.emplace_back("dnsseed.koin-project.com");
 
